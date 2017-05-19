@@ -1,0 +1,2 @@
+# SuppressLogicMonitor
+Schedule LogicMonitor Downtime
